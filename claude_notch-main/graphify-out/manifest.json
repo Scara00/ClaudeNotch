@@ -1,0 +1,67 @@
+{
+  ".claude/settings.local.json": {
+    "mtime": 1790167870.3739495,
+    "ast_hash": "5810bd35a97d6a544ccd1ef8efcccf73",
+    "semantic_hash": ""
+  },
+  "Package.swift": {
+    "mtime": 1790166932.9808688,
+    "ast_hash": "1ff1643ea4b47641055749d90569a0b9",
+    "semantic_hash": ""
+  },
+  "Sources/ClaudeNotch/AppDelegate.swift": {
+    "mtime": 1790282369.0305293,
+    "ast_hash": "5d29c28a6fd1b44ad5ae012ad87e645a",
+    "semantic_hash": ""
+  },
+  "Sources/ClaudeNotch/NotchView.swift": {
+    "mtime": 1790282369.0297744,
+    "ast_hash": "dfd76d6b61b21ec5bab0a96b28af0835",
+    "semantic_hash": ""
+  },
+  "Sources/ClaudeNotch/UsageStore.swift": {
+    "mtime": 1790282337.8249528,
+    "ast_hash": "669c1ed760dc5d66abeb9eba340cce9d",
+    "semantic_hash": ""
+  },
+  "Sources/ClaudeNotch/main.swift": {
+    "mtime": 1790167018.2793937,
+    "ast_hash": "e17271e88adb2757f771eccb5fada724",
+    "semantic_hash": ""
+  },
+  "build.sh": {
+    "mtime": 1790168905.406968,
+    "ast_hash": "34d0c5059a49cb40641e4de37538bb7d",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1790282406.021209,
+    "ast_hash": "094edd69b5e39f465046ba2c0e7addf3",
+    "semantic_hash": ""
+  },
+  "Scripts/make_icon.swift": {
+    "mtime": 1790168895.382924,
+    "ast_hash": "2d49c6c4624680e85a3493e79fe4d435",
+    "semantic_hash": ""
+  },
+  "Sources/ClaudeNotch/SessionWatcher.swift": {
+    "mtime": 1790195121.9636528,
+    "ast_hash": "30a55ec2293964d395079c6167f0c996",
+    "semantic_hash": ""
+  },
+  "Resources/AppIcon.png": {
+    "mtime": 1790168895.865223,
+    "ast_hash": "35d618ae8fc3eac53625b55fc37d6b81",
+    "semantic_hash": ""
+  },
+  "docs/index.html": {
+    "mtime": 1790282110.3551795,
+    "ast_hash": "54ac0b1652e55ed090c046f6d975e1b2",
+    "semantic_hash": ""
+  },
+  "docs/icon.png": {
+    "mtime": 1790280818.5980346,
+    "ast_hash": "90638f0f0b7d14296a6bb3644fd34011",
+    "semantic_hash": ""
+  }
+}

@@ -1,0 +1,3989 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "settings.local.json",
+      "file_type": "code",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L1",
+      "id": "claude_settings_local",
+      "community": 9,
+      "norm_label": "settings.local.json"
+    },
+    {
+      "label": "enabledMcpjsonServers",
+      "file_type": "code",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L2",
+      "id": "claude_settings_local_enabledmcpjsonservers",
+      "community": 9,
+      "norm_label": "enabledmcpjsonservers"
+    },
+    {
+      "label": "enableAllProjectMcpServers",
+      "file_type": "code",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L5",
+      "id": "claude_settings_local_enableallprojectmcpservers",
+      "community": 9,
+      "norm_label": "enableallprojectmcpservers"
+    },
+    {
+      "label": "Package.swift",
+      "file_type": "code",
+      "source_file": "Package.swift",
+      "source_location": "L1",
+      "id": "package",
+      "community": 12,
+      "norm_label": "package.swift"
+    },
+    {
+      "label": "make_icon.swift",
+      "file_type": "code",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L1",
+      "id": "scripts_make_icon",
+      "community": 5,
+      "norm_label": "make_icon.swift"
+    },
+    {
+      "label": "mix()",
+      "file_type": "code",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "id": "scripts_make_icon_mix",
+      "community": 5,
+      "norm_label": "mix()"
+    },
+    {
+      "label": "NSColor",
+      "file_type": "code",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "id": "nscolor",
+      "community": 5,
+      "norm_label": "nscolor"
+    },
+    {
+      "label": "CGFloat",
+      "file_type": "code",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "id": "scripts_make_icon_swift_cgfloat",
+      "community": 5,
+      "norm_label": "cgfloat"
+    },
+    {
+      "label": "CGColor",
+      "file_type": "code",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "id": "cgcolor",
+      "community": 5,
+      "norm_label": "cgcolor"
+    },
+    {
+      "label": "AppDelegate.swift",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L1",
+      "id": "claudenotch_appdelegate",
+      "community": 1,
+      "norm_label": "appdelegate.swift"
+    },
+    {
+      "label": "NotchState",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L5",
+      "id": "claudenotch_appdelegate_notchstate",
+      "community": 1,
+      "norm_label": "notchstate"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 1,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": "CGFloat",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L8",
+      "id": "sources_claudenotch_appdelegate_swift_cgfloat",
+      "community": 1,
+      "norm_label": "cgfloat"
+    },
+    {
+      "label": "SessionAlert",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L13",
+      "id": "sources_claudenotch_appdelegate_swift_sessionalert",
+      "community": 1,
+      "norm_label": "sessionalert"
+    },
+    {
+      "label": "CGSize",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L19",
+      "id": "cgsize",
+      "community": 1,
+      "norm_label": "cgsize"
+    },
+    {
+      "label": "NotchPanel",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L27",
+      "id": "claudenotch_appdelegate_notchpanel",
+      "community": 1,
+      "norm_label": "notchpanel"
+    },
+    {
+      "label": "NSPanel",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "nspanel",
+      "community": 1,
+      "norm_label": "nspanel"
+    },
+    {
+      "label": "Bool",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L28",
+      "id": "sources_claudenotch_appdelegate_swift_bool",
+      "community": 1,
+      "norm_label": "bool"
+    },
+    {
+      "label": "AppDelegate",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L32",
+      "id": "claudenotch_appdelegate_appdelegate",
+      "community": 1,
+      "norm_label": "appdelegate"
+    },
+    {
+      "label": "NSObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "nsobject",
+      "community": 1,
+      "norm_label": "nsobject"
+    },
+    {
+      "label": "NSApplicationDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "nsapplicationdelegate",
+      "community": 1,
+      "norm_label": "nsapplicationdelegate"
+    },
+    {
+      "label": "Any",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L38",
+      "id": "sources_claudenotch_appdelegate_swift_any",
+      "community": 1,
+      "norm_label": "any"
+    },
+    {
+      "label": "DispatchWorkItem",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L39",
+      "id": "dispatchworkitem",
+      "community": 1,
+      "norm_label": "dispatchworkitem"
+    },
+    {
+      "label": ".applicationDidFinishLaunching()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L43",
+      "id": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching",
+      "community": 1,
+      "norm_label": ".applicationdidfinishlaunching()"
+    },
+    {
+      "label": "Notification",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L43",
+      "id": "notification",
+      "community": 1,
+      "norm_label": "notification"
+    },
+    {
+      "label": "TimeInterval",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L78",
+      "id": "sources_claudenotch_appdelegate_swift_timeinterval",
+      "community": 1,
+      "norm_label": "timeinterval"
+    },
+    {
+      "label": ".enqueue()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L80",
+      "id": "claudenotch_appdelegate_appdelegate_enqueue",
+      "community": 1,
+      "norm_label": ".enqueue()"
+    },
+    {
+      "label": ".showNextAlertIfIdle()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L85",
+      "id": "claudenotch_appdelegate_appdelegate_shownextalertifidle",
+      "community": 1,
+      "norm_label": ".shownextalertifidle()"
+    },
+    {
+      "label": ".dismissAlert()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L95",
+      "id": "claudenotch_appdelegate_appdelegate_dismissalert",
+      "community": 1,
+      "norm_label": ".dismissalert()"
+    },
+    {
+      "label": "NSScreen",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L104",
+      "id": "nsscreen",
+      "community": 1,
+      "norm_label": "nsscreen"
+    },
+    {
+      "label": ".layout()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L108",
+      "id": "claudenotch_appdelegate_appdelegate_layout",
+      "community": 1,
+      "norm_label": ".layout()"
+    },
+    {
+      "label": ".updateHover()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L124",
+      "id": "claudenotch_appdelegate_appdelegate_updatehover",
+      "community": 1,
+      "norm_label": ".updatehover()"
+    },
+    {
+      "label": "NotchView.swift",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L1",
+      "id": "claudenotch_notchview",
+      "community": 0,
+      "norm_label": "notchview.swift"
+    },
+    {
+      "label": "color()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L6",
+      "id": "claudenotch_notchview_color",
+      "community": 0,
+      "norm_label": "color()"
+    },
+    {
+      "label": "Double",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L6",
+      "id": "sources_claudenotch_notchview_swift_double",
+      "community": 0,
+      "norm_label": "double"
+    },
+    {
+      "label": "formatTokens()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L14",
+      "id": "claudenotch_notchview_formattokens",
+      "community": 0,
+      "norm_label": "formattokens()"
+    },
+    {
+      "label": "Int",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L14",
+      "id": "sources_claudenotch_notchview_swift_int",
+      "community": 0,
+      "norm_label": "int"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L14",
+      "id": "sources_claudenotch_notchview_swift_string",
+      "community": 0,
+      "norm_label": "string"
+    },
+    {
+      "label": "countdown()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L22",
+      "id": "claudenotch_notchview_countdown",
+      "community": 0,
+      "norm_label": "countdown()"
+    },
+    {
+      "label": "Date",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L22",
+      "id": "sources_claudenotch_notchview_swift_date",
+      "community": 0,
+      "norm_label": "date"
+    },
+    {
+      "label": "NotchView",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L31",
+      "id": "claudenotch_notchview_notchview",
+      "community": 0,
+      "norm_label": "notchview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 0,
+      "norm_label": "view"
+    },
+    {
+      "label": "UsageStore",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L32",
+      "id": "usagestore",
+      "community": 0,
+      "norm_label": "usagestore"
+    },
+    {
+      "label": "NotchState",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L33",
+      "id": "notchstate",
+      "community": 0,
+      "norm_label": "notchstate"
+    },
+    {
+      "label": "AlertContent",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L110",
+      "id": "claudenotch_notchview_alertcontent",
+      "community": 0,
+      "norm_label": "alertcontent"
+    },
+    {
+      "label": "SessionAlert",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L111",
+      "id": "sources_claudenotch_notchview_swift_sessionalert",
+      "community": 0,
+      "norm_label": "sessionalert"
+    },
+    {
+      "label": "ContentHeightKey",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L146",
+      "id": "claudenotch_notchview_contentheightkey",
+      "community": 3,
+      "norm_label": "contentheightkey"
+    },
+    {
+      "label": "PreferenceKey",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "preferencekey",
+      "community": 3,
+      "norm_label": "preferencekey"
+    },
+    {
+      "label": "CGFloat",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L147",
+      "id": "sources_claudenotch_notchview_swift_cgfloat",
+      "community": 3,
+      "norm_label": "cgfloat"
+    },
+    {
+      "label": ".reduce()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L148",
+      "id": "claudenotch_notchview_contentheightkey_reduce",
+      "community": 3,
+      "norm_label": ".reduce()"
+    },
+    {
+      "label": "ExpandedContent",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L151",
+      "id": "claudenotch_notchview_expandedcontent",
+      "community": 0,
+      "norm_label": "expandedcontent"
+    },
+    {
+      "label": ".columnTitle()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L226",
+      "id": "claudenotch_notchview_expandedcontent_columntitle",
+      "community": 0,
+      "norm_label": ".columntitle()"
+    },
+    {
+      "label": ".tokenRow()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L230",
+      "id": "claudenotch_notchview_expandedcontent_tokenrow",
+      "community": 0,
+      "norm_label": ".tokenrow()"
+    },
+    {
+      "label": "TokenStats",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L230",
+      "id": "tokenstats",
+      "community": 0,
+      "norm_label": "tokenstats"
+    },
+    {
+      "label": ".value()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L239",
+      "id": "claudenotch_notchview_expandedcontent_value",
+      "community": 0,
+      "norm_label": ".value()"
+    },
+    {
+      "label": "ModelBreakdown",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L245",
+      "id": "claudenotch_notchview_modelbreakdown",
+      "community": 0,
+      "norm_label": "modelbreakdown"
+    },
+    {
+      "label": "ModelUsage",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L246",
+      "id": "modelusage",
+      "community": 0,
+      "norm_label": "modelusage"
+    },
+    {
+      "label": "UsageBar",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L296",
+      "id": "claudenotch_notchview_usagebar",
+      "community": 0,
+      "norm_label": "usagebar"
+    },
+    {
+      "label": "UsageWindow",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L298",
+      "id": "usagewindow",
+      "community": 0,
+      "norm_label": "usagewindow"
+    },
+    {
+      "label": "Ring",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L326",
+      "id": "claudenotch_notchview_ring",
+      "community": 0,
+      "norm_label": "ring"
+    },
+    {
+      "label": "NotchShape",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L339",
+      "id": "claudenotch_notchview_notchshape",
+      "community": 3,
+      "norm_label": "notchshape"
+    },
+    {
+      "label": "Shape",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "shape",
+      "community": 3,
+      "norm_label": "shape"
+    },
+    {
+      "label": ".path()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L348",
+      "id": "claudenotch_notchview_notchshape_path",
+      "community": 3,
+      "norm_label": ".path()"
+    },
+    {
+      "label": "CGRect",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L348",
+      "id": "cgrect",
+      "community": 3,
+      "norm_label": "cgrect"
+    },
+    {
+      "label": "Path",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L348",
+      "id": "path",
+      "community": 3,
+      "norm_label": "path"
+    },
+    {
+      "label": "SessionWatcher.swift",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L1",
+      "id": "claudenotch_sessionwatcher",
+      "community": 8,
+      "norm_label": "sessionwatcher.swift"
+    },
+    {
+      "label": "SessionAlert",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L4",
+      "id": "claudenotch_sessionwatcher_sessionalert",
+      "community": 8,
+      "norm_label": "sessionalert"
+    },
+    {
+      "label": "Identifiable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "identifiable",
+      "community": 4,
+      "norm_label": "identifiable"
+    },
+    {
+      "label": "Equatable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "equatable",
+      "community": 4,
+      "norm_label": "equatable"
+    },
+    {
+      "label": "Sendable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "sendable",
+      "community": 8,
+      "norm_label": "sendable"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L6",
+      "id": "sources_claudenotch_sessionwatcher_swift_string",
+      "community": 8,
+      "norm_label": "string"
+    },
+    {
+      "label": "TimeInterval",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L8",
+      "id": "sources_claudenotch_sessionwatcher_swift_timeinterval",
+      "community": 8,
+      "norm_label": "timeinterval"
+    },
+    {
+      "label": "SessionWatcher",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L14",
+      "id": "claudenotch_sessionwatcher_sessionwatcher",
+      "community": 8,
+      "norm_label": "sessionwatcher"
+    },
+    {
+      "label": "MainActor",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L16",
+      "id": "mainactor",
+      "community": 8,
+      "norm_label": "mainactor"
+    },
+    {
+      "label": "Void",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L16",
+      "id": "void",
+      "community": 1,
+      "norm_label": "void"
+    },
+    {
+      "label": "FSEventStreamRef",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L23",
+      "id": "fseventstreamref",
+      "community": 8,
+      "norm_label": "fseventstreamref"
+    },
+    {
+      "label": "UInt64",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L24",
+      "id": "sources_claudenotch_sessionwatcher_swift_uint64",
+      "community": 8,
+      "norm_label": "uint64"
+    },
+    {
+      "label": "Bool",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L27",
+      "id": "sources_claudenotch_sessionwatcher_swift_bool",
+      "community": 8,
+      "norm_label": "bool"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L32",
+      "id": "claudenotch_sessionwatcher_sessionwatcher_start",
+      "community": 8,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".isSessionLog()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L44",
+      "id": "claudenotch_sessionwatcher_sessionwatcher_issessionlog",
+      "community": 8,
+      "norm_label": ".issessionlog()"
+    },
+    {
+      "label": ".startStream()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L48",
+      "id": "claudenotch_sessionwatcher_sessionwatcher_startstream",
+      "community": 8,
+      "norm_label": ".startstream()"
+    },
+    {
+      "label": ".readNew()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L67",
+      "id": "claudenotch_sessionwatcher_sessionwatcher_readnew",
+      "community": 8,
+      "norm_label": ".readnew()"
+    },
+    {
+      "label": ".turnFinished()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L94",
+      "id": "claudenotch_sessionwatcher_sessionwatcher_turnfinished",
+      "community": 8,
+      "norm_label": ".turnfinished()"
+    },
+    {
+      "label": "Any",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L94",
+      "id": "sources_claudenotch_sessionwatcher_swift_any",
+      "community": 8,
+      "norm_label": "any"
+    },
+    {
+      "label": ".lastTitle()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L109",
+      "id": "claudenotch_sessionwatcher_sessionwatcher_lasttitle",
+      "community": 8,
+      "norm_label": ".lasttitle()"
+    },
+    {
+      "label": ".format()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L119",
+      "id": "claudenotch_sessionwatcher_sessionwatcher_format",
+      "community": 8,
+      "norm_label": ".format()"
+    },
+    {
+      "label": "UsageStore.swift",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L1",
+      "id": "claudenotch_usagestore",
+      "community": 4,
+      "norm_label": "usagestore.swift"
+    },
+    {
+      "label": "UsageWindow",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L3",
+      "id": "claudenotch_usagestore_usagewindow",
+      "community": 4,
+      "norm_label": "usagewindow"
+    },
+    {
+      "label": "Double",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L4",
+      "id": "sources_claudenotch_usagestore_swift_double",
+      "community": 4,
+      "norm_label": "double"
+    },
+    {
+      "label": "Date",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L5",
+      "id": "sources_claudenotch_usagestore_swift_date",
+      "community": 4,
+      "norm_label": "date"
+    },
+    {
+      "label": "TokenStats",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L8",
+      "id": "claudenotch_usagestore_tokenstats",
+      "community": 4,
+      "norm_label": "tokenstats"
+    },
+    {
+      "label": "Int",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L9",
+      "id": "sources_claudenotch_usagestore_swift_int",
+      "community": 4,
+      "norm_label": "int"
+    },
+    {
+      "label": "ModelUsage",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L14",
+      "id": "claudenotch_usagestore_modelusage",
+      "community": 4,
+      "norm_label": "modelusage"
+    },
+    {
+      "label": "String",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L15",
+      "id": "sources_claudenotch_usagestore_swift_string",
+      "community": 4,
+      "norm_label": "string"
+    },
+    {
+      "label": "LocalStats",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L21",
+      "id": "claudenotch_usagestore_localstats",
+      "community": 4,
+      "norm_label": "localstats"
+    },
+    {
+      "label": "UsageStore",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L28",
+      "id": "claudenotch_usagestore_usagestore",
+      "community": 4,
+      "norm_label": "usagestore"
+    },
+    {
+      "label": "TimeInterval",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L39",
+      "id": "sources_claudenotch_usagestore_swift_timeinterval",
+      "community": 4,
+      "norm_label": "timeinterval"
+    },
+    {
+      "label": ".start()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L47",
+      "id": "claudenotch_usagestore_usagestore_start",
+      "community": 4,
+      "norm_label": ".start()"
+    },
+    {
+      "label": ".refreshLocal()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L63",
+      "id": "claudenotch_usagestore_usagestore_refreshlocal",
+      "community": 4,
+      "norm_label": ".refreshlocal()"
+    },
+    {
+      "label": ".fetchPlanUsage()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L74",
+      "id": "claudenotch_usagestore_usagestore_fetchplanusage",
+      "community": 4,
+      "norm_label": ".fetchplanusage()"
+    },
+    {
+      "label": ".parse()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L118",
+      "id": "claudenotch_usagestore_usagestore_parse",
+      "community": 4,
+      "norm_label": ".parse()"
+    },
+    {
+      "label": "Data",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L118",
+      "id": "data",
+      "community": 4,
+      "norm_label": "data"
+    },
+    {
+      "label": ".readAccessToken()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L132",
+      "id": "claudenotch_usagestore_usagestore_readaccesstoken",
+      "community": 4,
+      "norm_label": ".readaccesstoken()"
+    },
+    {
+      "label": ".parseDate()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L149",
+      "id": "claudenotch_usagestore_usagestore_parsedate",
+      "community": 4,
+      "norm_label": ".parsedate()"
+    },
+    {
+      "label": "LocalLogScanner",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L160",
+      "id": "claudenotch_usagestore_locallogscanner",
+      "community": 4,
+      "norm_label": "locallogscanner"
+    },
+    {
+      "label": "Record",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L161",
+      "id": "claudenotch_usagestore_record",
+      "community": 4,
+      "norm_label": "record"
+    },
+    {
+      "label": "FileState",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L163",
+      "id": "claudenotch_usagestore_filestate",
+      "community": 4,
+      "norm_label": "filestate"
+    },
+    {
+      "label": "UInt64",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L163",
+      "id": "sources_claudenotch_usagestore_swift_uint64",
+      "community": 4,
+      "norm_label": "uint64"
+    },
+    {
+      "label": ".scan()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L167",
+      "id": "claudenotch_usagestore_locallogscanner_scan",
+      "community": 4,
+      "norm_label": ".scan()"
+    },
+    {
+      "label": ".read()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L213",
+      "id": "claudenotch_usagestore_locallogscanner_read",
+      "community": 4,
+      "norm_label": ".read()"
+    },
+    {
+      "label": "URL",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L213",
+      "id": "url",
+      "community": 4,
+      "norm_label": "url"
+    },
+    {
+      "label": ".displayName()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L239",
+      "id": "claudenotch_usagestore_locallogscanner_displayname",
+      "community": 4,
+      "norm_label": ".displayname()"
+    },
+    {
+      "label": "main.swift",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/main.swift",
+      "source_location": "L1",
+      "id": "claudenotch_main",
+      "community": 11,
+      "norm_label": "main.swift"
+    },
+    {
+      "label": "build.sh",
+      "file_type": "code",
+      "source_file": "build.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "id": "build",
+      "community": 10,
+      "norm_label": "build.sh"
+    },
+    {
+      "label": "build.sh script",
+      "file_type": "code",
+      "source_file": "build.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "id": "users_cristianscaratti_desktop_my_projects_claude_notch_build_sh__entry",
+      "community": 10,
+      "norm_label": "build.sh script"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme",
+      "community": 2,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "ClaudeNotch",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_claudenotch",
+      "community": 2,
+      "norm_label": "claudenotch"
+    },
+    {
+      "label": "Cosa fa",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "id": "readme_cosa_fa",
+      "community": 2,
+      "norm_label": "cosa fa"
+    },
+    {
+      "label": "Avvisi di fine sessione",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L27",
+      "id": "readme_avvisi_di_fine_sessione",
+      "community": 2,
+      "norm_label": "avvisi di fine sessione"
+    },
+    {
+      "label": "Come funziona",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L41",
+      "id": "readme_come_funziona",
+      "community": 2,
+      "norm_label": "come funziona"
+    },
+    {
+      "label": "Requisiti",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L49",
+      "id": "readme_requisiti",
+      "community": 2,
+      "norm_label": "requisiti"
+    },
+    {
+      "label": "Installazione",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L57",
+      "id": "readme_installazione",
+      "community": 2,
+      "norm_label": "installazione"
+    },
+    {
+      "label": "Primo avvio",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L79",
+      "id": "readme_primo_avvio",
+      "community": 2,
+      "norm_label": "primo avvio"
+    },
+    {
+      "label": "Aggiornamento",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L85",
+      "id": "readme_aggiornamento",
+      "community": 2,
+      "norm_label": "aggiornamento"
+    },
+    {
+      "label": "Disinstallazione",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L92",
+      "id": "readme_disinstallazione",
+      "community": 2,
+      "norm_label": "disinstallazione"
+    },
+    {
+      "label": "Risoluzione problemi",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L102",
+      "id": "readme_risoluzione_problemi",
+      "community": 2,
+      "norm_label": "risoluzione problemi"
+    },
+    {
+      "label": "Struttura del progetto",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L111",
+      "id": "readme_struttura_del_progetto",
+      "community": 2,
+      "norm_label": "struttura del progetto"
+    },
+    {
+      "label": "Nota",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L125",
+      "id": "readme_nota",
+      "community": 2,
+      "norm_label": "nota"
+    },
+    {
+      "label": ".stat()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L207",
+      "community": 0,
+      "norm_label": ".stat()",
+      "id": "claudenotch_notchview_expandedcontent_stat"
+    },
+    {
+      "label": "UInt64",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L24",
+      "community": 8,
+      "norm_label": "uint64",
+      "id": "uint64"
+    },
+    {
+      "label": "FileResult",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L145",
+      "community": 4,
+      "norm_label": "fileresult",
+      "id": "claudenotch_usagestore_fileresult"
+    },
+    {
+      "label": ".scanToday()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L149",
+      "community": 4,
+      "norm_label": ".scantoday()",
+      "id": "claudenotch_usagestore_locallogscanner_scantoday"
+    },
+    {
+      "label": ".parse()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L180",
+      "community": 4,
+      "norm_label": ".parse()",
+      "id": "claudenotch_usagestore_locallogscanner_parse"
+    },
+    {
+      "label": "UNUserNotificationCenterDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "community": 1,
+      "norm_label": "unusernotificationcenterdelegate",
+      "id": "unusernotificationcenterdelegate"
+    },
+    {
+      "label": ".userNotificationCenter()",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "community": 1,
+      "norm_label": ".usernotificationcenter()",
+      "id": "claudenotch_appdelegate_appdelegate_usernotificationcenter"
+    },
+    {
+      "label": "UNUserNotificationCenter",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "community": 1,
+      "norm_label": "unusernotificationcenter",
+      "id": "unusernotificationcenter"
+    },
+    {
+      "label": "UNNotification",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "community": 1,
+      "norm_label": "unnotification",
+      "id": "unnotification"
+    },
+    {
+      "label": "UNNotificationPresentationOptions",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "community": 1,
+      "norm_label": "unnotificationpresentationoptions",
+      "id": "unnotificationpresentationoptions"
+    },
+    {
+      "label": "Notifiche di fine sessione",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "community": 2,
+      "norm_label": "notifiche di fine sessione",
+      "id": "readme_notifiche_di_fine_sessione"
+    },
+    {
+      "label": "Bool",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L24",
+      "community": 1,
+      "norm_label": "bool",
+      "id": "bool"
+    },
+    {
+      "label": "Any",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L33",
+      "community": 1,
+      "norm_label": "any",
+      "id": "any"
+    },
+    {
+      "label": "TimeInterval",
+      "file_type": "code",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L25",
+      "community": 4,
+      "norm_label": "timeinterval",
+      "id": "timeinterval"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_settings_local",
+      "target": "claude_settings_local_enableallprojectmcpservers"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_settings_local",
+      "target": "claude_settings_local_enabledmcpjsonservers"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "scripts_make_icon",
+      "target": "scripts_make_icon_mix"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "scripts_make_icon_mix",
+      "target": "cgcolor"
+    },
+    {
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "scripts_make_icon_mix",
+      "target": "nscolor"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Scripts/make_icon.swift",
+      "source_location": "L61",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "scripts_make_icon_mix",
+      "target": "scripts_make_icon_swift_cgfloat"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate",
+      "target": "claudenotch_appdelegate_notchpanel"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate",
+      "target": "claudenotch_appdelegate_notchstate"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_notchstate",
+      "target": "cgsize"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_notchstate",
+      "target": "observableobject"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_notchstate",
+      "target": "sources_claudenotch_appdelegate_swift_cgfloat"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_notchstate",
+      "target": "sources_claudenotch_appdelegate_swift_sessionalert"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "observableobject"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L76",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "sources_claudenotch_appdelegate_swift_sessionalert"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L80",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_enqueue",
+      "target": "sources_claudenotch_appdelegate_swift_sessionalert"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_notchpanel"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching",
+      "target": "claudenotch_appdelegate_notchpanel"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_notchpanel",
+      "target": "bool"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_notchpanel",
+      "target": "nspanel"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_notchpanel",
+      "target": "sources_claudenotch_appdelegate_swift_bool"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "any"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L95",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate_dismissalert"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L80",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate_enqueue"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate_layout"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L85",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate_shownextalertifidle"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L88",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate_updatehover"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "claudenotch_appdelegate_appdelegate_usernotificationcenter"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L34",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "dispatchworkitem"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "nsapplicationdelegate"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "nsobject"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L68",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "nsscreen"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L35",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "sources_claudenotch_appdelegate_swift_any"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "sources_claudenotch_appdelegate_swift_timeinterval"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate",
+      "target": "unusernotificationcenterdelegate"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L90",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_shownextalertifidle",
+      "target": "dispatchworkitem"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L104",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_updatehover",
+      "target": "dispatchworkitem"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching",
+      "target": "claudenotch_appdelegate_appdelegate_enqueue"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching",
+      "target": "claudenotch_appdelegate_appdelegate_layout"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching",
+      "target": "claudenotch_appdelegate_appdelegate_updatehover"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching",
+      "target": "claudenotch_notchview_notchview"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L38",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_applicationdidfinishlaunching",
+      "target": "notification"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L82",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_enqueue",
+      "target": "claudenotch_appdelegate_appdelegate_shownextalertifidle"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L100",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_dismissalert",
+      "target": "claudenotch_appdelegate_appdelegate_shownextalertifidle"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L149",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_updatehover",
+      "target": "claudenotch_appdelegate_appdelegate_shownextalertifidle"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L110",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_alertcontent"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_color"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_contentheightkey"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_countdown"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L107",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_expandedcontent"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_formattokens"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_modelbreakdown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L204",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_notchshape"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_notchview"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L191",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_ring"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L161",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview",
+      "target": "claudenotch_notchview_usagebar"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L6",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_color",
+      "target": "sources_claudenotch_notchview_swift_double"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L248",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_notchview_modelbreakdown",
+      "target": "claudenotch_notchview_color",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_formattokens",
+      "target": "sources_claudenotch_notchview_swift_double"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L192",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_ring",
+      "target": "sources_claudenotch_notchview_swift_double"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L233",
+      "weight": 1.0,
+      "source": "claudenotch_notchview_expandedcontent_tokenrow",
+      "target": "claudenotch_notchview_formattokens",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_formattokens",
+      "target": "sources_claudenotch_notchview_swift_int"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_formattokens",
+      "target": "sources_claudenotch_notchview_swift_string"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_countdown",
+      "target": "sources_claudenotch_notchview_swift_int"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_countdown",
+      "target": "sources_claudenotch_notchview_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L226",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "claudenotch_notchview_expandedcontent_columntitle",
+      "target": "sources_claudenotch_notchview_swift_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L153",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_expandedcontent_stat",
+      "target": "sources_claudenotch_notchview_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L230",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "claudenotch_notchview_expandedcontent_tokenrow",
+      "target": "sources_claudenotch_notchview_swift_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L239",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "claudenotch_notchview_expandedcontent_value",
+      "target": "sources_claudenotch_notchview_swift_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L162",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_usagebar",
+      "target": "sources_claudenotch_notchview_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_countdown",
+      "target": "sources_claudenotch_notchview_swift_date"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L164",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_usagebar",
+      "target": "sources_claudenotch_notchview_swift_date"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchview",
+      "target": "notchstate"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L32",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchview",
+      "target": "usagestore"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchview",
+      "target": "view"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L114",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_alertcontent",
+      "target": "view"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L111",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_expandedcontent",
+      "target": "view"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L226",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "claudenotch_notchview_expandedcontent_columntitle",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L153",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_expandedcontent_stat",
+      "target": "view"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L230",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "claudenotch_notchview_expandedcontent_tokenrow",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L239",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "claudenotch_notchview_expandedcontent_value",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L263",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_notchview_modelbreakdown",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L193",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_ring",
+      "target": "view"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L166",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_usagebar",
+      "target": "view"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_expandedcontent",
+      "target": "usagestore"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L111",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_alertcontent",
+      "target": "sources_claudenotch_notchview_swift_sessionalert"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L104",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_contentheightkey",
+      "target": "claudenotch_notchview_contentheightkey_reduce"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_contentheightkey",
+      "target": "preferencekey"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L103",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_contentheightkey",
+      "target": "sources_claudenotch_notchview_swift_cgfloat"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L104",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_contentheightkey_reduce",
+      "target": "sources_claudenotch_notchview_swift_cgfloat"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L208",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchshape",
+      "target": "sources_claudenotch_notchview_swift_cgfloat"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "claudenotch_notchview_expandedcontent",
+      "target": "claudenotch_notchview_expandedcontent_columntitle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L153",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_expandedcontent",
+      "target": "claudenotch_notchview_expandedcontent_stat"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L230",
+      "weight": 1.0,
+      "source": "claudenotch_notchview_expandedcontent",
+      "target": "claudenotch_notchview_expandedcontent_tokenrow",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "claudenotch_notchview_expandedcontent",
+      "target": "claudenotch_notchview_expandedcontent_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L233",
+      "weight": 1.0,
+      "source": "claudenotch_notchview_expandedcontent_tokenrow",
+      "target": "claudenotch_notchview_expandedcontent_value",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L230",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "claudenotch_notchview_expandedcontent_tokenrow",
+      "target": "tokenstats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L256",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_notchview_modelbreakdown",
+      "target": "modelusage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_usagebar",
+      "target": "usagewindow"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchshape",
+      "target": "claudenotch_notchview_notchshape_path"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L204",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchshape",
+      "target": "shape"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchshape_path",
+      "target": "cgrect"
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/NotchView.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_notchview_notchshape_path",
+      "target": "path"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionalert"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionalert",
+      "target": "equatable"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionalert",
+      "target": "identifiable"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionalert",
+      "target": "sendable"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L9",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionalert",
+      "target": "sources_claudenotch_sessionwatcher_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionalert",
+      "target": "sources_claudenotch_sessionwatcher_swift_timeinterval"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionalert"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_turnfinished",
+      "target": "claudenotch_sessionwatcher_sessionalert"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_modelusage",
+      "target": "identifiable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_localstats",
+      "target": "equatable"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_modelusage",
+      "target": "equatable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_tokenstats",
+      "target": "equatable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagewindow",
+      "target": "equatable"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "sendable"
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L144",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "sendable"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "sources_claudenotch_sessionwatcher_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L118",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_format",
+      "target": "sources_claudenotch_sessionwatcher_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_issessionlog",
+      "target": "sources_claudenotch_sessionwatcher_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_lasttitle",
+      "target": "sources_claudenotch_sessionwatcher_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_readnew",
+      "target": "sources_claudenotch_sessionwatcher_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L86",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_turnfinished",
+      "target": "sources_claudenotch_sessionwatcher_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "sources_claudenotch_sessionwatcher_swift_timeinterval"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L118",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_format",
+      "target": "sources_claudenotch_sessionwatcher_swift_timeinterval"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L118",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_format"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_issessionlog"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_lasttitle"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_readnew"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_start"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_startstream"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L86",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_turnfinished"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "fseventstreamref"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "mainactor"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "sources_claudenotch_sessionwatcher_swift_bool"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "sources_claudenotch_sessionwatcher_swift_uint64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "uint64"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher",
+      "target": "void"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_usernotificationcenter",
+      "target": "void"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_start",
+      "target": "sources_claudenotch_sessionwatcher_swift_uint64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_issessionlog",
+      "target": "sources_claudenotch_sessionwatcher_swift_bool"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_start",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_issessionlog"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_start",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_startstream"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_start",
+      "target": "uint64"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_startstream",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_issessionlog"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_startstream",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_readnew"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_readnew",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_turnfinished"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_readnew",
+      "target": "data"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L97",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_turnfinished",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_format"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L93",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_turnfinished",
+      "target": "claudenotch_sessionwatcher_sessionwatcher_lasttitle"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L86",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_turnfinished",
+      "target": "sources_claudenotch_sessionwatcher_swift_any"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Sources/ClaudeNotch/SessionWatcher.swift",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "claudenotch_sessionwatcher_sessionwatcher_lasttitle",
+      "target": "data"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_fileresult"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_filestate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L144",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_locallogscanner"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_localstats"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_modelusage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L161",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_record",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_tokenstats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_usagestore"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore",
+      "target": "claudenotch_usagestore_usagewindow"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "claudenotch_usagestore_usagewindow"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L5",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagewindow",
+      "target": "sources_claudenotch_usagestore_swift_date"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L4",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagewindow",
+      "target": "sources_claudenotch_usagestore_swift_double"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L207",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scan",
+      "target": "sources_claudenotch_usagestore_swift_double",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_modelusage",
+      "target": "sources_claudenotch_usagestore_swift_double",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_fetchplanusage",
+      "target": "sources_claudenotch_usagestore_swift_double"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_fileresult",
+      "target": "sources_claudenotch_usagestore_swift_date"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_filestate",
+      "target": "sources_claudenotch_usagestore_swift_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L180",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_parse",
+      "target": "sources_claudenotch_usagestore_swift_date"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L167",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "claudenotch_usagestore_locallogscanner_scan",
+      "target": "sources_claudenotch_usagestore_swift_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L161",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_record",
+      "target": "sources_claudenotch_usagestore_swift_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "sources_claudenotch_usagestore_swift_date"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L133",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_parsedate",
+      "target": "sources_claudenotch_usagestore_swift_date"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_tokenstats",
+      "target": "sources_claudenotch_usagestore_swift_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_fileresult",
+      "target": "sources_claudenotch_usagestore_swift_int"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_displayname",
+      "target": "sources_claudenotch_usagestore_swift_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_read",
+      "target": "sources_claudenotch_usagestore_swift_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_localstats",
+      "target": "sources_claudenotch_usagestore_swift_int"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_modelusage",
+      "target": "sources_claudenotch_usagestore_swift_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L161",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_record",
+      "target": "sources_claudenotch_usagestore_swift_int",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L207",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scan",
+      "target": "claudenotch_usagestore_modelusage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_localstats",
+      "target": "claudenotch_usagestore_modelusage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_modelusage",
+      "target": "sources_claudenotch_usagestore_swift_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_fileresult",
+      "target": "sources_claudenotch_usagestore_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_filestate",
+      "target": "sources_claudenotch_usagestore_swift_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L146",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "sources_claudenotch_usagestore_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L239",
+      "weight": 1.0,
+      "context": "return_type",
+      "source": "claudenotch_usagestore_locallogscanner_displayname",
+      "target": "sources_claudenotch_usagestore_swift_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L161",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_record",
+      "target": "sources_claudenotch_usagestore_swift_string",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "sources_claudenotch_usagestore_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L133",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_parsedate",
+      "target": "sources_claudenotch_usagestore_swift_string"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L116",
+      "weight": 1.0,
+      "context": "return_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_readaccesstoken",
+      "target": "sources_claudenotch_usagestore_swift_string"
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scan",
+      "target": "claudenotch_usagestore_localstats",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L149",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scantoday",
+      "target": "claudenotch_usagestore_localstats"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L58",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "claudenotch_usagestore_usagestore_fetchplanusage"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "claudenotch_usagestore_usagestore_parse"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L133",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "claudenotch_usagestore_usagestore_parsedate"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L116",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "claudenotch_usagestore_usagestore_readaccesstoken"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "claudenotch_usagestore_usagestore_refreshlocal"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "claudenotch_usagestore_usagestore_start"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "sources_claudenotch_usagestore_swift_timeinterval"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore",
+      "target": "timeinterval"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_start",
+      "target": "claudenotch_usagestore_locallogscanner_parse"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_start",
+      "target": "claudenotch_usagestore_usagestore_fetchplanusage"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_usagestore_start",
+      "target": "claudenotch_usagestore_usagestore_parse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_start",
+      "target": "claudenotch_usagestore_usagestore_refreshlocal"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_usagestore_refreshlocal",
+      "target": "claudenotch_usagestore_locallogscanner_scan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L51",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_refreshlocal",
+      "target": "claudenotch_usagestore_locallogscanner_scantoday"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L79",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_fetchplanusage",
+      "target": "claudenotch_usagestore_locallogscanner_parse"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_usagestore_fetchplanusage",
+      "target": "claudenotch_usagestore_usagestore_parse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L64",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_fetchplanusage",
+      "target": "claudenotch_usagestore_usagestore_readaccesstoken"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L102",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_usagestore_parse",
+      "target": "data"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L183",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_parse",
+      "target": "data"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L221",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_read",
+      "target": "data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L146",
+      "weight": 1.0,
+      "context": "field",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "claudenotch_usagestore_fileresult"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L164",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "claudenotch_usagestore_filestate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "claudenotch_usagestore_locallogscanner_displayname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L180",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "claudenotch_usagestore_locallogscanner_parse"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "claudenotch_usagestore_locallogscanner_read",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "claudenotch_usagestore_locallogscanner_scan",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L149",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner",
+      "target": "claudenotch_usagestore_locallogscanner_scantoday"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_filestate",
+      "target": "claudenotch_usagestore_record",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L230",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_read",
+      "target": "claudenotch_usagestore_record",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L163",
+      "weight": 1.0,
+      "context": "field",
+      "source": "claudenotch_usagestore_filestate",
+      "target": "sources_claudenotch_usagestore_swift_uint64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "claudenotch_usagestore_locallogscanner_read",
+      "target": "claudenotch_usagestore_filestate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scan",
+      "target": "claudenotch_usagestore_filestate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_read",
+      "target": "sources_claudenotch_usagestore_swift_uint64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L181",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scan",
+      "target": "sources_claudenotch_usagestore_swift_uint64",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scan",
+      "target": "claudenotch_usagestore_locallogscanner_read",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L213",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "claudenotch_usagestore_locallogscanner_read",
+      "target": "url",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L180",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_parse",
+      "target": "url"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build.sh",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "build",
+      "target": "users_cristianscaratti_desktop_my_projects_claude_notch_build_sh__entry"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme",
+      "target": "readme_claudenotch"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L74",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_aggiornamento"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_come_funziona"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_cosa_fa"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L81",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_disinstallazione"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_installazione"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L111",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_nota"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_requisiti"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L91",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_risoluzione_problemi"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L100",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_claudenotch",
+      "target": "readme_struttura_del_progetto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_cosa_fa",
+      "target": "readme_avvisi_di_fine_sessione"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_cosa_fa",
+      "target": "readme_notifiche_di_fine_sessione"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_installazione",
+      "target": "readme_primo_avvio"
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L180",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_parse",
+      "target": "claudenotch_usagestore_fileresult"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/UsageStore.swift",
+      "source_location": "L168",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claudenotch_usagestore_locallogscanner_scantoday",
+      "target": "claudenotch_usagestore_locallogscanner_parse"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_usernotificationcenter",
+      "target": "unnotification"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_usernotificationcenter",
+      "target": "unnotificationpresentationoptions"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "Sources/ClaudeNotch/AppDelegate.swift",
+      "source_location": "L72",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "confidence_score": 1.0,
+      "source": "claudenotch_appdelegate_appdelegate_usernotificationcenter",
+      "target": "unusernotificationcenter"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "6fe288d4469ef3d3f5e9d48e959badd3d54fa834"
+}
