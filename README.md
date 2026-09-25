@@ -20,9 +20,19 @@ Niente icona nel Dock, niente finestre: solo due "orecchie" ai lati del notch. P
 | **Settimana · Opus / Sonnet** | Limiti settimanali per modello (se previsti dal tuo piano) |
 | **Token · Oggi / Settimana** | Token totali (input + output + cache), token di output e risposte ricevute, oggi e nella settimana del piano |
 | **Modelli · settimana** | Quota di token per modello (es. Opus 5, Sonnet 5) con il più usato in evidenza |
-| **Login** | Interruttore per avviare ClaudeNotch all'accesso al Mac |
 | 🔔 | Attiva/disattiva gli avvisi di fine sessione |
+| ⚙️ | Apre le impostazioni |
 | ⏻ | Chiude l'app |
+
+### Impostazioni
+
+Dall'ingranaggio nel pannello si apre la finestra delle impostazioni, dove scegli:
+
+- **Notch chiuso** — cosa mostrare a sinistra e a destra del notch: sessione (5h), settimana, token di oggi, token della settimana, modello più usato oppure niente
+- **Pannello aperto** — quali sezioni vedere: sessione, settimana, limiti per modello, token, modelli della settimana
+- **Generale** — avvio al login, avvisi di fine sessione e relativo suono
+
+Le scelte vengono salvate e applicate subito.
 
 ### Avvisi di fine sessione
 
@@ -80,7 +90,7 @@ open build/ClaudeNotch.app
 
 - Al primo accesso al Portachiavi macOS chiederà il permesso per leggere la voce **Claude Code-credentials**: scegli **Consenti sempre**, altrimenti il widget mostrerà "Login Claude Code non trovato".
 - Poiché l'app è firmata ad-hoc (non notarizzata), se macOS la blocca apri **Impostazioni di Sistema → Privacy e sicurezza** e clicca **Apri comunque**.
-- Per farla partire all'avvio del Mac, apri il pannello e attiva l'interruttore **Login**.
+- Per farla partire all'avvio del Mac, apri le impostazioni (⚙️ nel pannello) e attiva **Avvia al login**.
 
 ## Aggiornamento
 
@@ -91,7 +101,7 @@ git pull
 
 ## Disinstallazione
 
-1. Apri il pannello e disattiva **Login** (se attivo), poi chiudi l'app con ⏻
+1. Nelle impostazioni disattiva **Avvia al login** (se attivo), poi chiudi l'app con ⏻
 2. Elimina l'app e le preferenze salvate:
 
 ```bash
@@ -116,7 +126,8 @@ Sources/ClaudeNotch/
 ├── AppDelegate.swift   # finestra sopra il notch, posizionamento e hover
 ├── NotchView.swift     # interfaccia SwiftUI (vista chiusa ed espansa)
 ├── UsageStore.swift    # chiamate API, lettura token dal Portachiavi, parsing dei log locali
-└── SessionWatcher.swift # avvisi di fine sessione dai log di Claude Code
+├── SessionWatcher.swift # avvisi di fine sessione dai log di Claude Code
+└── Settings.swift       # finestra delle impostazioni e preferenze di visualizzazione
 Resources/AppIcon.icns  # icona dell'app (+ AppIcon.png in 1024px)
 Scripts/make_icon.swift # rigenera l'icona: swift Scripts/make_icon.swift
 build.sh                # build + creazione del bundle .app (+ installazione)
